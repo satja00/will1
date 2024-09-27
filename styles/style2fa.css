@@ -12,9 +12,9 @@ body {
 
 /* Top bar */
 .top-bar {
- background-color: #3b5998;
+ background-color: #ced1d3;
  padding: 10px;
- text-align: center;
+ text-align: left;
  width: 100%;
  position: fixed;
  top: 0;
